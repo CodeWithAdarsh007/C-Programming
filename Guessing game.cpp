@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+#include <stdio.h> //Standard input and output 
+#include <stdlib.h> //Standard library
+#include <time.h> //Initiates every time a number number
 
 int main() 
 {
