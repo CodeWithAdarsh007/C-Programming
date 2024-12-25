@@ -10,8 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ## 🛠️ Languages
 
-HTML5
-GitHub
+HTML5 , GitHub , C++ , Python
 
 ## 📈 GitHub Stats
 
