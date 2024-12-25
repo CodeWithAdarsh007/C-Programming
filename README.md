@@ -23,7 +23,7 @@ CODSOFT : https://github.com/CodeWithAdarsh007/CODSOFT
 
 ## 📫 Connect with Me
 
-LinkedIn :  www.linkedin.com/in/adarsh-pandey-a47b57337
+LinkedIn :  www.linkedin.com/in/adarsh-pandey-a47b57337 <br>
 Twitter : https://x.com/AdarshPand20738
 
 ## 📝 Latest Blog Posts
