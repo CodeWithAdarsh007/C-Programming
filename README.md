@@ -18,7 +18,7 @@ Adarsh's GitHub stats : https://github-readme-stats.vercel.app/api?username=Code
 
 ## 🌟 Top Repositories
 
-CODSOFT : https://github.com/CodeWithAdarsh007/CODSOFT
+C-Programming: https://github.com/CodeWithAdarsh007/CODSOFT
 
 ## 📫 Connect with Me
 
